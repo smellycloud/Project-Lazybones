@@ -1,7 +1,5 @@
 # Project Lazybones
-
 ![](https://github.com/smellycloud/Project-Lazybones/blob/main/Mockups/1.jpeg?raw=true)
-
 
 ## Flutter application to control GPIO pins on a Raspberry Pi 3/4
 
