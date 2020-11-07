@@ -26,4 +26,4 @@ Transfer the contents of the Backend folder to a Raspberry Pi
 * Add Firebase authentication to the Flutter application
 * Create Settings page
 * Build diagnostics tool
-
+* Add scheduling 
